@@ -15,4 +15,13 @@ The Vrinda Store wants to create an annual sales report for 2022, so that, the o
 - Highest selling category?
 - Percentage of total orders delivered
 
-- Dashboard Interaction <a href = 
+- Dashboard Interaction <a href = "https://github.com/yashika3007/Data-Analysis---Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type , data format and values used.
+- Created Pivot tables according to the Questions asked.
+- Merge all pivot tables in to one dashboard and apply slicer to make dynamic.
+  
+  ## Dashboard
+  "C:\Users\yashi\OneDrive\Pictures\Screenshots\Dashboard.png"
