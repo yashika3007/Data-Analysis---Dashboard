@@ -28,9 +28,9 @@ The Vrinda Store wants to create an annual sales report for 2022, so that, the o
 
   ## Project Insights
   - Womens are More Likely To Buy as Compared to Mens (~64%).
-  -Maharastra, Karnataka and Uttar Pradesh  are top 3 States.						
-  -Adult Age Group (30-49)  are max contributing (50%).							
-  -Amazon , Myntra and Flipkart are Max Contributing channels.						
+  - Maharastra, Karnataka and Uttar Pradesh  are top 3 States.						
+  - Adult Age Group (30-49)  are max contributing (50%).							
+  - Amazon , Myntra and Flipkart are Max Contributing channels.						
 
 ## Final Conclusion:
  To improve the sales of vrinda store, a strategic marketing plan focused on womens aged 30- 49 years residing in Maharashtra, Karnataka and Uttar Pradesh should be implemented.
